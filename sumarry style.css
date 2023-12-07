@@ -1,0 +1,367 @@
+.blue{
+    width: 443px;
+    height: 1399px;
+    flex-shrink: 0;
+    position: relative;
+    background: #0066FF;
+}
+.photo{
+    width: 240px; 
+    height: 387px; 
+    left: 101px; 
+    top: 0px; 
+    position: absolute;
+}
+.Dani{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 413px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-style: normal;
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+    
+}
+.line1{
+    width: 440px;
+    height: 2px;
+    border: 2px black solid;
+    background: #000;
+    left: 0px; 
+    top: 477px; 
+    position: absolute;
+}
+.name{
+    width: 343px; 
+    height: 29px;
+    flex-shrink: 0; 
+    left: 68px; 
+    top: 497px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-style: normal;
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.namelastname{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 567px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.address{
+    width: 343px;
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 671px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.myaddress{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 741px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.number{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 917px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.mynumber{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 987px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.language{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 1080px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.line2{
+    width: 440px; 
+    height: 2px; 
+    left: 0px; 
+    top: 1156px; 
+    position: absolute; 
+    border: 2px black solid;
+    background: #000;
+}
+.eng{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 1176px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.ua{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 68px; 
+    top: 1246px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.NAME{
+    width: 541px; 
+    height: 29px;
+    flex-shrink: 0; 
+    left: 488px; 
+    top: 40px; 
+    position: absolute; 
+    color: black; 
+    font-size: 64px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.line3{
+    width: 100%; 
+    height: 0px; 
+    left: 450px; 
+    top: 193px; 
+    position: absolute; 
+    border: 3px black solid;
+    background: #000;
+}
+.skills{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 488px; 
+    top: 262px; 
+    position: absolute; 
+    color: black; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.line4{
+    width: 100%; 
+    height: 0px; 
+    left: 450px; 
+    top: 329px; 
+    position: absolute; 
+    border: 3px black solid;
+    background: #000;
+}
+.post{
+    width: 343px; 
+    height: 29px;
+    flex-shrink: 0; 
+    left: 488px; 
+    top: 351px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.data1{
+    width: 306px; 
+    height: 23px; 
+    flex-shrink: 0; 
+    left: 949px;  
+    top: 354px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: 'Inter'; 
+    font-style: italic; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.mypost{
+    width: 631px; 
+    height: 23px; 
+    flex-shrink: 0;
+    left: 488px; 
+    top: 400px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.educ{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 488px; 
+    top: 503px; 
+    position: absolute; 
+    color: black; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.line5{
+    width: 100%; 
+    height: 0px; 
+    left: 450px; 
+    top: 567px; 
+    position: absolute; 
+    border: 3px black solid;
+    background: #000;
+}
+.myeduc{
+    width: 343px; 
+    height: 29px; 
+    flex-shrink: 0;
+    left: 488px; 
+    top: 590px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.data2{
+    width: 306px; 
+    height: 23px; 
+    left: 940px; 
+    top: 593px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: 'Inter'; 
+    font-style: italic; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.dteu{
+    width: 631px;
+    height: 23px;
+    flex-shrink: 0;
+    left: 488px; 
+    top: 634px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.hobby{
+    width: 343px;
+    height: 29px;
+    flex-shrink: 0;
+    left: 488px; 
+    top: 766px; 
+    position: absolute; 
+    color: black; 
+    font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+.line6{
+    width: 100%; 
+    height: 0px; 
+    left: 450px; 
+    top: 833.01px; 
+    position: absolute; 
+    border: 3px black solid;
+    background: #000;
+}
+.myhobby{
+    width: 631px; 
+    height: 23px; 
+    flex-shrink: 0;
+    left: 488px; 
+    top: 871px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: normal;
+}
+
